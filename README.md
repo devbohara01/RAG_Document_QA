@@ -3,6 +3,7 @@
 ## Overview
 
 This project implements a Retrieval-Augmented Generation (RAG) system that answers user questions from custom PDF documents.
+Document Question Answering System using Retrieval-Augmented Generation (RAG), LangChain, FAISS, HuggingFace Embeddings and Google Gemini API.
 
 ## Features
 
